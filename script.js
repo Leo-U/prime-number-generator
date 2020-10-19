@@ -1,5 +1,5 @@
 //input n
-let n = 10000;
+let n = 100;
 
 // make array of all numbers 2 to n
 let myArray = [2];
